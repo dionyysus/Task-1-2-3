@@ -1,4 +1,4 @@
-# Task1
+# INTERNSHIP
 
 ---TASK 1---
 TC Kimlik Numaranızdaki rakamların toplamını veren bir kodlama yapınız.
