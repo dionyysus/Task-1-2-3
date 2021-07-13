@@ -38,3 +38,30 @@ Ayrıca Web versiyonu ve yönetim paneli olacağını da düşünelim.
 -Hangi veritabanı yapısını kullanırsınız?
 -Proje yöneticisi olsanız kaç kişi ile çalışırsınız ve nasıl görevlendirme yaparsınız?
 -Bir ekiple birlikte projeyi yapıyor olsanız, sizce ne kadar sürede biter?
+
+---Task 3---
+
+Bu task bir oyun fikri üretmek için hazırlandı.
+Mobil kullanıcıları hedef alan ve app marketlerden "ücretsiz" indirilebilecek bir oyun yapılacağını düşünelim.
+Oyunda temel olarak aşağıdaki özelliklerin olacağını varsayalım:
+-Tekli oyun, rastgele rakip ve arkadaşla oyun modları
+-Hesap oluşturma (bir nick ile)
+-Arkadaş ekleme
+-Arkadaşa oyun daveti
+-Oyun içi mesajlaşma
+
+Öncelikle oyuncuların her oyunda puan toplayacağını ve arkadaşları ile oynadığı oyunlarda skor tablosunda yer alacaklarını hayal edelim.
+Kullanımı basit yani kullanıcı dostu bir oyun olmalı.
+Yüksek boyutlu bir oyun olmamalı, küçük bir oyun olmalı.
+Zeka oyunu olabilir veya mevcut bir oyunun dijitalleşmiş hali olabilir.
+Daha önce oynadığınız bir oyunun geliştirilmiş bir versiyonu olabilir.
+
+Sizden ricam bir oyun fikri geliştirmeniz.
+Oyun fikrini geliştirirken yukarıda yazılı temel özelliklerin var olacağını düşünelim.
+Oyun fikriniz için bir oyun senaryosu yazmaya çalışınız.
+Oyunda puanlama sistemi nasıl olacak?
+Oyun için satın alma olacaksa ne satılacak?
+Oyunun kazanç yöntemi ne olacak? (reklamdan kazanç, ödüllü reklamlar, uygulama içi satın alma vb.)
+Oyunun geliştirilmesi esnasında hangi kodlama dillerine başvurursunuz?
+Kaç kişilik ekip ile ne kadar sürede tamamlanır?
+Kuracağınız ekipte sizin rolünüz ne olur?
