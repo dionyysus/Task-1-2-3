@@ -39,7 +39,7 @@ Ayrıca Web versiyonu ve yönetim paneli olacağını da düşünelim.
 -Proje yöneticisi olsanız kaç kişi ile çalışırsınız ve nasıl görevlendirme yaparsınız?
 -Bir ekiple birlikte projeyi yapıyor olsanız, sizce ne kadar sürede biter?
 
----Task 3---
+---TASK 3---
 
 Bu task bir oyun fikri üretmek için hazırlandı.
 Mobil kullanıcıları hedef alan ve app marketlerden "ücretsiz" indirilebilecek bir oyun yapılacağını düşünelim.
